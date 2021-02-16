@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Keep Pterodactyls Away](https://github.com/alex-sandri/keep-pterodactyls-away)
+- 🔭 I’m currently working on [SVT App](https://github.com/alex-sandri/svt-app)
 - 📫 How to reach me: [me@alexsandri.com](mailto:me@alexsandri.com)
 - 😄 Pronouns: He/Him
 
