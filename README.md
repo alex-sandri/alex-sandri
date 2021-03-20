@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [SVT App](https://github.com/alex-sandri/svt-app)
+- 🔭 I’m currently working on [nuntium](https://github.com/alex-sandri/nuntium)
 - 📫 How to reach me: [me@alexsandri.com](mailto:me@alexsandri.com)
 - 😄 Pronouns: He/Him
 
