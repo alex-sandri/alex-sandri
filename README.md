@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [scootr](https://github.com/alex-sandri/scootr), its [Web App](https://github.com/alex-sandri/scootr-ui) and its [SPID Auth API](https://github.com/alex-sandri/scootr-spid)
+- 🔭 I’m currently working on [scootr](https://github.com/alex-sandri/scootr), its [web app](https://github.com/alex-sandri/scootr-ui), its [SPID auth service](https://github.com/alex-sandri/scootr-spid) and while we're at it its [mobile app](https://github.com/alex-sandri/scootr-app)
 - 📫 How to reach me: [me@alexsandri.com](mailto:me@alexsandri.com)
 - 😄 Pronouns: He/Him
 
