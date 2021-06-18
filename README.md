@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alex-sandri)
 
-- 🔭 I’m currently working on [nuntium](https://github.com/alex-sandri/nuntium)
+- 🔭 I’m currently working on [nuntium](https://nuntium.space)
 - 📫 How to reach me: <me@alexsandri.com>
 - 😄 Pronouns: He/Him
 
