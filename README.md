@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Zippa](https://zippa.pizza)
 - 📫 How to reach me: <me@alexsandri.com>
 - 😄 Pronouns: He/Him
 
